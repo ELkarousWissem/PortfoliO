@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "title": "Generative Question-Answering with RAG",
+      "description": "Multi-AI agent system leveraging advanced retrieval techniques",
+      "content": "Architected multi-AI agent architecture using LangGraph, AstraDB, and Llama 3.1, enabling collaborative task execution across agents. Applied Retrieval-Augmented Generation (RAG) techniques to improve response accuracy and performance in complex tasks.",
+      "technologies": "LLama2, LangChain, Python, Vector database Faiss",
+      "year": "2025",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Generative Question-Answering for GitHub Repositories",
+      "description": "AI driven system for natural language querying of GitHub repositories",
+      "content": "Built an AI driven system to enable natural language querying and exploration of GitHub repositories. Leveraged Llama 3 LLM, applying fine-tuning on a dataset of code collected from GitHub to enhance code comprehension and generate accurate answers. Integrated Ollama and ChromaDB for efficient embedding, retrieval, and response generation across multiple repositories.",
+      "technologies": "LLM, Fine-Tuning, LLama3, ChromaDB, Python",
+      "year": "09/2024",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Smart City Traffic Forecasting",
+      "description": "Smart city initiative to optimize traffic management",
+      "content": "Worked on a smart city initiative to optimize traffic management and support infrastructure planning. Analyzed 20 months of traffic data from sensors at four major junctions, including irregular and sparse datasets. Built predictive models using LSTM networks and statistical forecasting to anticipate traffic patterns on weekdays, holidays, and special events.",
+      "technologies": "IoT Sensors, Time-Series Analysis, LSTM",
+      "year": "04/2024",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "title": "Automated Threat Evaluation of Automotive Diagnostic Protocols",
+      "description": "AI-driven system to analyze and secure automotive internal networks",
+      "content": "Developed an AI-driven system to analyze and secure automotive internal networks. Applied Active Automata Learning and LSTM models on time-series Electronic Control Unit (ECU) and CAN bus data to learn normal communication patterns, map attack surfaces, and detect anomalies in real time.",
+      "technologies": "Active Automata Learning, LSTM, Time-Series CAN Data, ECU",
+      "year": "06/2024",
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "title": "Real-Time Environmental Monitoring and Predictive Maintenance System",
+      "description": "Real-time environmental monitoring and predictive maintenance system",
+      "content": "Created a real-time environmental monitoring and predictive maintenance system. Engineered a real-time monitoring and alert solution using an ESP32 microcontroller with sensors and actuators, secure MQTT communication, device management via AWS IoT, and AI-driven predictive maintenance for proactive detection and prevention of potential issues.",
+      "technologies": "MQTT, AWS Cloud, ESP32, Grafana",
+      "year": "11/2024",
+      "link": "#"
+    },
+    {
+      "id": 6,
+      "title": "Visual Speech Recognition (Lipreading)",
+      "description": "State of the art lipreading model with interactive web interface",
+      "content": "Formulated a state of the art lipreading model with interactive web interface. Built and deployed a lipreading model (automatic speech recognition from visual cues on lip movements) with a Streamlit web interface, achieving lowest CER (0.6%) and WER (1.7%) since the first related publication in 2016. Conducted comprehensive benchmarking across 8 research papers to extract key insights and guide project design decisions.",
+      "technologies": "VRS, Python, Tensorflow, Streamlit, Huggingface spaces",
+      "year": "12/2023 – 04/2024",
+      "link": "#"
+    }
+  ]
